@@ -1,2 +1,3 @@
-# dnd-5e-colorized-sheets
-DND 5th Edition Character Sheets Colorized
+# DND 5th Edition Character Sheets Colorized
+
+Because printer cartriges are a scam and you may have some color left when black is empty.
